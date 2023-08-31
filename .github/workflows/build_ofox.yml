@@ -1,4 +1,4 @@
-name: Recovery Build
+name: Build OFOX
 
 on:
   workflow_dispatch:
